@@ -17,7 +17,7 @@
         <key>GROUP_TEMPLATE</key>
         <string>SmartGroupTemplate.xml</string>
         <key>SELF_SERVICE_ICON</key>
-        <string>Caffeine.png</string>
+        <string>Viscoscity.png</string>
         <key>NAME</key>
         <string>Viscosity</string>
         <key>POLICY_CATEGORY</key>
