@@ -3,7 +3,9 @@
 Here is a list of our Simple .jss Recipes.
 
 
-Special thanks to https://github.com/luciusbono 
+Special thanks to:
+
+https://github.com/luciusbono 
 
 and 
 
