@@ -9,7 +9,7 @@
     <key>Input</key>
     <dict>
         <key>NAME</key>
-        <string>Viscosity</string>
+        <string>Mou</string>
     </dict>
     <key>ParentRecipe</key>
     <string>com.github.jlrgraham.autopkg.download.Mou</string>
