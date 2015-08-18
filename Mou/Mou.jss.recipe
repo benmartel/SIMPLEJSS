@@ -15,7 +15,7 @@ https://github.com/homebysix/auto-update-magic</string>
 	<key>Description</key>
 	<string>Downloads the current release version of Mou and builds a package. Then, uploads to the JSS.</string>
 	<key>Identifier</key>
-	<string>com.github.benmartel.jss.mou</string>
+	<string>com.github.benmartel.jss.Mou</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
@@ -38,7 +38,7 @@ https://github.com/homebysix/auto-update-magic</string>
 	<key>MinimumVersion</key>
 	<string>0.2.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.benmartel.pkg.mou</string>
+	<string>com.github.benmartel.pkg.Mou</string>
 	<key>Process</key>
 	<array>
 		<dict>
