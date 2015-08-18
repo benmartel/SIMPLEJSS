@@ -5,7 +5,7 @@
     <criteria>
         <criterion>
             <name>Application Title</name>
-            <priority>0</priority>
+            <priority>1</priority>
             <and_or>and</and_or>
             <search_type>is not</search_type>
             <value>%JSS_INVENTORY_NAME%</value>
@@ -26,7 +26,7 @@
         </criterion>
         <criterion>
             <name>Computer Group</name>
-            <priority>3</priority>
+            <priority>0</priority>
             <and_or>and</and_or>
             <search_type>member of</search_type>
             <value>Testing</value>
