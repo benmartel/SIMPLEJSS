@@ -15,7 +15,7 @@ https://github.com/homebysix/auto-update-magic</string>
 	<key>Description</key>
 	<string>Downloads the current release version of TextExpander and makes a package. Then, uploads to the JSS.</string>
 	<key>Identifier</key>
-	<string>io.github.hjuutilainen.jss.TextExpander</string>
+	<string>com.github.luciusbono.jss.TextExpander</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
@@ -40,7 +40,7 @@ https://github.com/homebysix/auto-update-magic</string>
 	<key>MinimumVersion</key>
 	<string>0.3.1</string>
 	<key>ParentRecipe</key>
-	<string>io.github.hjuutilainen.pkg.TextExpander</string>
+	<string>com.github.luciusbono.jss.TextExpander</string>
 	<key>Process</key>
 	<array>
 		<dict>
