@@ -18,6 +18,8 @@
 		<string>%RECIPE_DIR%/SmartGroupTemplate.xml</string>
 		<key>ICON</key>
 		<string>Alfred3.png</string>
+		<key>JSS_INVENTORY_NAME</key>
+		<string>Alfred 3.app</string>
 		<key>NAME</key>
 		<string>Alfred3</string>
 		<key>POLICY_CATEGORY</key>
