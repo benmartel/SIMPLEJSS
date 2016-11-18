@@ -19,7 +19,7 @@
 		<key>ICON</key>
 		<string>%RECIPE_DIR%/Alfred3.png</string>
 		<key>JSS_INVENTORY_NAME</key>
-		<key>Alfred 3.app</key>
+		<string>Alfred 3.app</string>
 		<key>NAME</key>
 		<string>Alfred3</string>
 		<key>POLICY_CATEGORY</key>
