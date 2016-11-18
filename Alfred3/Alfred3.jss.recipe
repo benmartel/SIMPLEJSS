@@ -17,7 +17,7 @@
 		<key>GROUP_TEMPLATE</key>
 		<string>%RECIPE_DIR%/SmartGroupTemplate.xml</string>
 		<key>ICON</key>
-		<string>%RECIPE_DIR%/Alfred3.png</string>
+		<string>Alfred3.png</string>
 		<key>JSS_INVENTORY_NAME</key>
 		<string>Alfred 3.app</string>
 		<key>NAME</key>
