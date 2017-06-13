@@ -30,7 +30,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.jaharmi.pkg.NetSpot<</string>
+	<string>com.github.jaharmi.pkg.NetSpot</string>
 	<key>Process</key>
 	<array>
 		<dict>
