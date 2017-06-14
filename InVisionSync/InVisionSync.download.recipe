@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads the current release version of InVisionSync.</string>
     <key>Identifier</key>
-    <string>com.github.autopkg.download.InVisionSync</string>
+    <string>com.github.benmartel.download.InVisionSync</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
