@@ -7,13 +7,13 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Chrome and creates a package.</string>
 	<key>Identifier</key>
-	<string>com.simple.jss.pkg.Chrome</string>
+	<string>com.simple.jss.pkg.googlechromecanary</string>
 	<key>Input</key>
 	<dict>
 		<key>APP_FILENAME</key>
 		<string>Google Chrome Canary</string>
 		<key>BUNDLE_ID</key>
-		<string>com.google.Chrome.canary</string>
+		<string>com.google.Chrome.googlechromecanary</string>
 		<key>NAME</key>
 		<string>Chrome</string>
 	</dict>
