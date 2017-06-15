@@ -5,15 +5,15 @@
 	<key>Comment</key>
 	<string>Created with Recipe Robot v1.0.5 (https://github.com/homebysix/recipe-robot)</string>
 	<key>Description</key>
-	<string>Downloads the latest version of CraftInstaller and creates a package.</string>
+	<string>Downloads the latest version of Craft and creates a package.</string>
 	<key>Identifier</key>
 	<string>com.simple.jss.pkg.CraftInstaller</string>
 	<key>Input</key>
 	<dict>
 		<key>BUNDLE_ID</key>
-		<string>com.invisionlabs.CraftInstaller</string>
+		<string>com.invisionlabs.CraftManager</string>
 		<key>NAME</key>
-		<string>CraftInstaller</string>
+		<string>CraftManager</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
